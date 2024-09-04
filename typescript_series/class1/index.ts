@@ -8,7 +8,7 @@ let variable=1234;
 let first_name ="minahil";
 console.log(first_name);
 
-let mynum=23
+let mynum=23//
 //understanding let /var /const
 //let //keywords
 //let myName="maryam riaz";
@@ -27,7 +27,7 @@ console.log(last_name);
 //var javascript 
 //const constant , value is not changed
 const my_name="maryam";
-my_name="ali";
+//my_name="ali";//error
 //type annotation 
 let myname:string ="mudasir";
 
