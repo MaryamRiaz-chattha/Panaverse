@@ -30,11 +30,13 @@ console.log(sentence);
 let word:string ="ali";
 let person1:string="ahmad";
 let person2:string=`welcome ,${word},${person1}`;
+
 console.log(person2);
 //template literal
 let stdName:string="maarij"
 let stdAge:number=30;
 console.log(`Student name is ${stdName}, and the age is ${stdAge}`)
+
 
 
 
