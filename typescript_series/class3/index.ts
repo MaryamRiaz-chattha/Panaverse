@@ -57,5 +57,6 @@ console.log(n>=5 || n>10 )//true
 //T F=T
 //F T=T
 //F F=F
+//
 
 
