@@ -34,3 +34,4 @@ let myname:string ="mudasir";
 //myname=1234;
 myname="mubasher";
 console.log(myname);
+//
