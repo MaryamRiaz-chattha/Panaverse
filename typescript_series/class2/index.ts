@@ -36,6 +36,7 @@ console.log(person2);
 let stdName:string="maarij"
 let stdAge:number=30;
 console.log(`Student name is ${stdName}, and the age is ${stdAge}`)
+//
 
 
 
